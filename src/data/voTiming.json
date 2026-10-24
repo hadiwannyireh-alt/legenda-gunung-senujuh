@@ -1,0 +1,1663 @@
+{
+ "vo_duration": 136.36,
+ "shots": [
+  {
+   "shot_id": 1,
+   "seq_start": 0.0,
+   "seq_end": 12.857,
+   "speech_start": 0.0,
+   "speech_end": 12.487,
+   "chunks": [
+    {
+     "text": "Pada zaman dahulu di bumi Sambas, Kalimantan Barat,",
+     "start": 0.0,
+     "end": 3.898
+    },
+    {
+     "text": "dua desa hidup rukun dan bersahabat.",
+     "start": 3.898,
+     "end": 7.145
+    },
+    {
+     "text": "Desa Sebatok yang dipimpin Datuk Siba,",
+     "start": 7.145,
+     "end": 9.996
+    },
+    {
+     "text": "dan Desa Sinujuh yang dipimpin Ki Sinu.",
+     "start": 9.996,
+     "end": 12.487
+    }
+   ],
+   "words": [
+    {
+     "w": "Pada",
+     "start": 0.0,
+     "end": 0.383
+    },
+    {
+     "w": "zaman",
+     "start": 0.383,
+     "end": 0.766
+    },
+    {
+     "w": "dahulu",
+     "start": 0.766,
+     "end": 1.341
+    },
+    {
+     "w": "di",
+     "start": 1.341,
+     "end": 1.532
+    },
+    {
+     "w": "bumi",
+     "start": 1.532,
+     "end": 1.916
+    },
+    {
+     "w": "Sambas,",
+     "start": 1.916,
+     "end": 2.299
+    },
+    {
+     "w": "Kalimantan",
+     "start": 2.299,
+     "end": 3.065
+    },
+    {
+     "w": "Barat,",
+     "start": 3.065,
+     "end": 3.898
+    },
+    {
+     "w": "dua",
+     "start": 3.898,
+     "end": 4.281
+    },
+    {
+     "w": "desa",
+     "start": 4.281,
+     "end": 4.665
+    },
+    {
+     "w": "hidup",
+     "start": 4.665,
+     "end": 5.048
+    },
+    {
+     "w": "rukun",
+     "start": 5.048,
+     "end": 5.431
+    },
+    {
+     "w": "dan",
+     "start": 5.431,
+     "end": 5.622
+    },
+    {
+     "w": "bersahabat.",
+     "start": 5.622,
+     "end": 7.145
+    },
+    {
+     "w": "Desa",
+     "start": 7.145,
+     "end": 7.528
+    },
+    {
+     "w": "Sebatok",
+     "start": 7.528,
+     "end": 8.103
+    },
+    {
+     "w": "yang",
+     "start": 8.103,
+     "end": 8.295
+    },
+    {
+     "w": "dipimpin",
+     "start": 8.295,
+     "end": 8.869
+    },
+    {
+     "w": "Datuk",
+     "start": 8.869,
+     "end": 9.253
+    },
+    {
+     "w": "Siba,",
+     "start": 9.253,
+     "end": 9.996
+    },
+    {
+     "w": "dan",
+     "start": 9.996,
+     "end": 10.188
+    },
+    {
+     "w": "Desa",
+     "start": 10.188,
+     "end": 10.571
+    },
+    {
+     "w": "Sinujuh",
+     "start": 10.571,
+     "end": 11.146
+    },
+    {
+     "w": "yang",
+     "start": 11.146,
+     "end": 11.337
+    },
+    {
+     "w": "dipimpin",
+     "start": 11.337,
+     "end": 11.912
+    },
+    {
+     "w": "Ki",
+     "start": 11.912,
+     "end": 12.104
+    },
+    {
+     "w": "Sinu.",
+     "start": 12.104,
+     "end": 12.487
+    }
+   ]
+  },
+  {
+   "shot_id": 2,
+   "seq_start": 12.857,
+   "seq_end": 23.492,
+   "speech_start": 13.226,
+   "speech_end": 23.184,
+   "chunks": [
+    {
+     "text": "Suatu hari saat berburu bersama,",
+     "start": 13.226,
+     "end": 15.74
+    },
+    {
+     "text": "mereka menemukan sebuah wilayah baru di dekat muara besar.",
+     "start": 15.74,
+     "end": 20.156
+    },
+    {
+     "text": "Tanahnya sangat subur,",
+     "start": 20.156,
+     "end": 21.691
+    },
+    {
+     "text": "kaya akan flora dan fauna.",
+     "start": 21.691,
+     "end": 23.184
+    }
+   ],
+   "words": [
+    {
+     "w": "Suatu",
+     "start": 13.226,
+     "end": 13.724
+    },
+    {
+     "w": "hari",
+     "start": 13.724,
+     "end": 14.056
+    },
+    {
+     "w": "saat",
+     "start": 14.056,
+     "end": 14.388
+    },
+    {
+     "w": "berburu",
+     "start": 14.388,
+     "end": 14.886
+    },
+    {
+     "w": "bersama,",
+     "start": 14.886,
+     "end": 15.74
+    },
+    {
+     "w": "mereka",
+     "start": 15.74,
+     "end": 16.238
+    },
+    {
+     "w": "menemukan",
+     "start": 16.238,
+     "end": 16.902
+    },
+    {
+     "w": "sebuah",
+     "start": 16.902,
+     "end": 17.4
+    },
+    {
+     "w": "wilayah",
+     "start": 17.4,
+     "end": 17.898
+    },
+    {
+     "w": "baru",
+     "start": 17.898,
+     "end": 18.23
+    },
+    {
+     "w": "di",
+     "start": 18.23,
+     "end": 18.396
+    },
+    {
+     "w": "dekat",
+     "start": 18.396,
+     "end": 18.727
+    },
+    {
+     "w": "muara",
+     "start": 18.727,
+     "end": 19.824
+    },
+    {
+     "w": "besar.",
+     "start": 19.824,
+     "end": 20.156
+    },
+    {
+     "w": "Tanahnya",
+     "start": 20.156,
+     "end": 20.654
+    },
+    {
+     "w": "sangat",
+     "start": 20.654,
+     "end": 20.986
+    },
+    {
+     "w": "subur,",
+     "start": 20.986,
+     "end": 21.691
+    },
+    {
+     "w": "kaya",
+     "start": 21.691,
+     "end": 22.023
+    },
+    {
+     "w": "akan",
+     "start": 22.023,
+     "end": 22.354
+    },
+    {
+     "w": "flora",
+     "start": 22.354,
+     "end": 22.686
+    },
+    {
+     "w": "dan",
+     "start": 22.686,
+     "end": 22.852
+    },
+    {
+     "w": "fauna.",
+     "start": 22.852,
+     "end": 23.184
+    }
+   ]
+  },
+  {
+   "shot_id": 3,
+   "seq_start": 23.492,
+   "seq_end": 34.633,
+   "speech_start": 23.8,
+   "speech_end": 34.324,
+   "chunks": [
+    {
+     "text": "Namun, keserakahan mulai membakar dada.",
+     "start": 23.8,
+     "end": 26.255
+    },
+    {
+     "text": "Masing-masing pemimpin ingin menguasai wilayah subur tersebut secara utuh,",
+     "start": 26.255,
+     "end": 31.412
+    },
+    {
+     "text": "hingga pertikaian tak lagi terelakkan.",
+     "start": 31.412,
+     "end": 34.324
+    }
+   ],
+   "words": [
+    {
+     "w": "Namun,",
+     "start": 23.8,
+     "end": 24.151
+    },
+    {
+     "w": "keserakahan",
+     "start": 24.151,
+     "end": 25.028
+    },
+    {
+     "w": "mulai",
+     "start": 25.028,
+     "end": 25.378
+    },
+    {
+     "w": "membakar",
+     "start": 25.378,
+     "end": 25.904
+    },
+    {
+     "w": "dada.",
+     "start": 25.904,
+     "end": 26.255
+    },
+    {
+     "w": "Masing-masing",
+     "start": 26.255,
+     "end": 27.554
+    },
+    {
+     "w": "pemimpin",
+     "start": 27.554,
+     "end": 28.08
+    },
+    {
+     "w": "ingin",
+     "start": 28.08,
+     "end": 28.431
+    },
+    {
+     "w": "menguasai",
+     "start": 28.431,
+     "end": 29.133
+    },
+    {
+     "w": "wilayah",
+     "start": 29.133,
+     "end": 29.659
+    },
+    {
+     "w": "subur",
+     "start": 29.659,
+     "end": 30.009
+    },
+    {
+     "w": "tersebut",
+     "start": 30.009,
+     "end": 30.535
+    },
+    {
+     "w": "secara",
+     "start": 30.535,
+     "end": 31.062
+    },
+    {
+     "w": "utuh,",
+     "start": 31.062,
+     "end": 31.412
+    },
+    {
+     "w": "hingga",
+     "start": 31.412,
+     "end": 32.22
+    },
+    {
+     "w": "pertikaian",
+     "start": 32.22,
+     "end": 33.097
+    },
+    {
+     "w": "tak",
+     "start": 33.097,
+     "end": 33.272
+    },
+    {
+     "w": "lagi",
+     "start": 33.272,
+     "end": 33.623
+    },
+    {
+     "w": "terelakkan.",
+     "start": 33.623,
+     "end": 34.324
+    }
+   ]
+  },
+  {
+   "shot_id": 4,
+   "seq_start": 34.633,
+   "seq_end": 42.624,
+   "speech_start": 34.942,
+   "speech_end": 42.322,
+   "chunks": [
+    {
+     "text": "Perselisihan berujung pada bentrokan antar warga.",
+     "start": 34.942,
+     "end": 38.503
+    },
+    {
+     "text": "Pertumpahan darah terjadi, mengancam kehancuran kedua desa.",
+     "start": 38.503,
+     "end": 42.322
+    }
+   ],
+   "words": [
+    {
+     "w": "Perselisihan",
+     "start": 34.942,
+     "end": 35.851
+    },
+    {
+     "w": "berujung",
+     "start": 35.851,
+     "end": 36.397
+    },
+    {
+     "w": "pada",
+     "start": 36.397,
+     "end": 36.76
+    },
+    {
+     "w": "bentrokan",
+     "start": 36.76,
+     "end": 37.306
+    },
+    {
+     "w": "antar",
+     "start": 37.306,
+     "end": 37.67
+    },
+    {
+     "w": "warga.",
+     "start": 37.67,
+     "end": 38.503
+    },
+    {
+     "w": "Pertumpahan",
+     "start": 38.503,
+     "end": 39.231
+    },
+    {
+     "w": "darah",
+     "start": 39.231,
+     "end": 39.594
+    },
+    {
+     "w": "terjadi,",
+     "start": 39.594,
+     "end": 40.14
+    },
+    {
+     "w": "mengancam",
+     "start": 40.14,
+     "end": 40.686
+    },
+    {
+     "w": "kehancuran",
+     "start": 40.686,
+     "end": 41.413
+    },
+    {
+     "w": "kedua",
+     "start": 41.413,
+     "end": 41.959
+    },
+    {
+     "w": "desa.",
+     "start": 41.959,
+     "end": 42.322
+    }
+   ]
+  },
+  {
+   "shot_id": 5,
+   "seq_start": 42.624,
+   "seq_end": 54.078,
+   "speech_start": 42.926,
+   "speech_end": 53.759,
+   "chunks": [
+    {
+     "text": "Demi menghentikan perang,",
+     "start": 42.926,
+     "end": 44.267
+    },
+    {
+     "text": "Ki Sinu memberi usul:",
+     "start": 44.267,
+     "end": 46.459
+    },
+    {
+     "text": "\"Mari kita berlomba membuat gunung!",
+     "start": 46.459,
+     "end": 48.9
+    },
+    {
+     "text": "Siapa yang membuat gunung tertinggi dalam satu bulan, dialah pemilik wilayah ini!\"",
+     "start": 48.9,
+     "end": 53.759
+    }
+   ],
+   "words": [
+    {
+     "w": "Demi",
+     "start": 42.926,
+     "end": 43.262
+    },
+    {
+     "w": "menghentikan",
+     "start": 43.262,
+     "end": 43.932
+    },
+    {
+     "w": "perang,",
+     "start": 43.932,
+     "end": 44.267
+    },
+    {
+     "w": "Ki",
+     "start": 44.267,
+     "end": 44.751
+    },
+    {
+     "w": "Sinu",
+     "start": 44.751,
+     "end": 45.087
+    },
+    {
+     "w": "memberi",
+     "start": 45.087,
+     "end": 45.589
+    },
+    {
+     "w": "usul:",
+     "start": 45.589,
+     "end": 46.459
+    },
+    {
+     "w": "\"Mari",
+     "start": 46.459,
+     "end": 46.794
+    },
+    {
+     "w": "kita",
+     "start": 46.794,
+     "end": 47.129
+    },
+    {
+     "w": "berlomba",
+     "start": 47.129,
+     "end": 47.632
+    },
+    {
+     "w": "membuat",
+     "start": 47.632,
+     "end": 48.134
+    },
+    {
+     "w": "gunung!",
+     "start": 48.134,
+     "end": 48.9
+    },
+    {
+     "w": "Siapa",
+     "start": 48.9,
+     "end": 49.403
+    },
+    {
+     "w": "yang",
+     "start": 49.403,
+     "end": 49.57
+    },
+    {
+     "w": "membuat",
+     "start": 49.57,
+     "end": 50.073
+    },
+    {
+     "w": "gunung",
+     "start": 50.073,
+     "end": 50.408
+    },
+    {
+     "w": "tertinggi",
+     "start": 50.408,
+     "end": 50.911
+    },
+    {
+     "w": "dalam",
+     "start": 50.911,
+     "end": 51.246
+    },
+    {
+     "w": "satu",
+     "start": 51.246,
+     "end": 51.581
+    },
+    {
+     "w": "bulan,",
+     "start": 51.581,
+     "end": 51.916
+    },
+    {
+     "w": "dialah",
+     "start": 51.916,
+     "end": 52.419
+    },
+    {
+     "w": "pemilik",
+     "start": 52.419,
+     "end": 52.921
+    },
+    {
+     "w": "wilayah",
+     "start": 52.921,
+     "end": 53.424
+    },
+    {
+     "w": "ini!\"",
+     "start": 53.424,
+     "end": 53.759
+    }
+   ]
+  },
+  {
+   "shot_id": 6,
+   "seq_start": 54.078,
+   "seq_end": 64.046,
+   "speech_start": 54.398,
+   "speech_end": 63.724,
+   "chunks": [
+    {
+     "text": "Perlombaan pun dimulai!",
+     "start": 54.398,
+     "end": 56.337
+    },
+    {
+     "text": "Warga Desa Sebatok dan Desa Sinujuh bekerja siang dan malam, mengangkut batu dan tanah demi kejayaan desa mereka.",
+     "start": 56.337,
+     "end": 63.724
+    }
+   ],
+   "words": [
+    {
+     "w": "Perlombaan",
+     "start": 54.398,
+     "end": 55.136
+    },
+    {
+     "w": "pun",
+     "start": 55.136,
+     "end": 55.321
+    },
+    {
+     "w": "dimulai!",
+     "start": 55.321,
+     "end": 56.337
+    },
+    {
+     "w": "Warga",
+     "start": 56.337,
+     "end": 56.706
+    },
+    {
+     "w": "Desa",
+     "start": 56.706,
+     "end": 57.076
+    },
+    {
+     "w": "Sebatok",
+     "start": 57.076,
+     "end": 57.63
+    },
+    {
+     "w": "dan",
+     "start": 57.63,
+     "end": 57.814
+    },
+    {
+     "w": "Desa",
+     "start": 57.814,
+     "end": 58.184
+    },
+    {
+     "w": "Sinujuh",
+     "start": 58.184,
+     "end": 58.738
+    },
+    {
+     "w": "bekerja",
+     "start": 58.738,
+     "end": 59.292
+    },
+    {
+     "w": "siang",
+     "start": 59.292,
+     "end": 59.661
+    },
+    {
+     "w": "dan",
+     "start": 59.661,
+     "end": 59.846
+    },
+    {
+     "w": "malam,",
+     "start": 59.846,
+     "end": 60.215
+    },
+    {
+     "w": "mengangkut",
+     "start": 60.215,
+     "end": 60.769
+    },
+    {
+     "w": "batu",
+     "start": 60.769,
+     "end": 61.138
+    },
+    {
+     "w": "dan",
+     "start": 61.138,
+     "end": 61.323
+    },
+    {
+     "w": "tanah",
+     "start": 61.323,
+     "end": 61.692
+    },
+    {
+     "w": "demi",
+     "start": 61.692,
+     "end": 62.062
+    },
+    {
+     "w": "kejayaan",
+     "start": 62.062,
+     "end": 62.8
+    },
+    {
+     "w": "desa",
+     "start": 62.8,
+     "end": 63.17
+    },
+    {
+     "w": "mereka.",
+     "start": 63.17,
+     "end": 63.724
+    }
+   ]
+  },
+  {
+   "shot_id": 7,
+   "seq_start": 64.046,
+   "seq_end": 74.481,
+   "speech_start": 64.368,
+   "speech_end": 74.159,
+   "chunks": [
+    {
+     "text": "Minggu ketiga tiba,",
+     "start": 64.368,
+     "end": 65.641
+    },
+    {
+     "text": "ketinggian kedua gunung masih seimbang.",
+     "start": 65.641,
+     "end": 69.249
+    },
+    {
+     "text": "Ki Sinu yang cemas lalu memutar otak dan merencanakan tipu muslihat yang licik.",
+     "start": 69.249,
+     "end": 74.159
+    }
+   ],
+   "words": [
+    {
+     "w": "Minggu",
+     "start": 64.368,
+     "end": 64.732
+    },
+    {
+     "w": "ketiga",
+     "start": 64.732,
+     "end": 65.277
+    },
+    {
+     "w": "tiba,",
+     "start": 65.277,
+     "end": 65.641
+    },
+    {
+     "w": "ketinggian",
+     "start": 65.641,
+     "end": 66.795
+    },
+    {
+     "w": "kedua",
+     "start": 66.795,
+     "end": 67.341
+    },
+    {
+     "w": "gunung",
+     "start": 67.341,
+     "end": 67.704
+    },
+    {
+     "w": "masih",
+     "start": 67.704,
+     "end": 68.068
+    },
+    {
+     "w": "seimbang.",
+     "start": 68.068,
+     "end": 69.249
+    },
+    {
+     "w": "Ki",
+     "start": 69.249,
+     "end": 69.431
+    },
+    {
+     "w": "Sinu",
+     "start": 69.431,
+     "end": 69.795
+    },
+    {
+     "w": "yang",
+     "start": 69.795,
+     "end": 69.977
+    },
+    {
+     "w": "cemas",
+     "start": 69.977,
+     "end": 70.34
+    },
+    {
+     "w": "lalu",
+     "start": 70.34,
+     "end": 70.704
+    },
+    {
+     "w": "memutar",
+     "start": 70.704,
+     "end": 71.249
+    },
+    {
+     "w": "otak",
+     "start": 71.249,
+     "end": 71.613
+    },
+    {
+     "w": "dan",
+     "start": 71.613,
+     "end": 71.795
+    },
+    {
+     "w": "merencanakan",
+     "start": 71.795,
+     "end": 72.704
+    },
+    {
+     "w": "tipu",
+     "start": 72.704,
+     "end": 73.068
+    },
+    {
+     "w": "muslihat",
+     "start": 73.068,
+     "end": 73.613
+    },
+    {
+     "w": "yang",
+     "start": 73.613,
+     "end": 73.795
+    },
+    {
+     "w": "licik.",
+     "start": 73.795,
+     "end": 74.159
+    }
+   ]
+  },
+  {
+   "shot_id": 8,
+   "seq_start": 74.481,
+   "seq_end": 85.908,
+   "speech_start": 74.804,
+   "speech_end": 85.568,
+   "chunks": [
+    {
+     "text": "Di kegelapan malam,",
+     "start": 74.804,
+     "end": 76.438
+    },
+    {
+     "text": "Ki Sinu memerintahkan warganya membentangkan kain hijau kehitam-hitaman di puncak gunung,",
+     "start": 76.438,
+     "end": 82.263
+    },
+    {
+     "text": "membuat gunungnya tampak jauh lebih tinggi secara instan.",
+     "start": 82.263,
+     "end": 85.568
+    }
+   ],
+   "words": [
+    {
+     "w": "Di",
+     "start": 74.804,
+     "end": 74.988
+    },
+    {
+     "w": "kegelapan",
+     "start": 74.988,
+     "end": 75.722
+    },
+    {
+     "w": "malam,",
+     "start": 75.722,
+     "end": 76.438
+    },
+    {
+     "w": "Ki",
+     "start": 76.438,
+     "end": 76.622
+    },
+    {
+     "w": "Sinu",
+     "start": 76.622,
+     "end": 76.989
+    },
+    {
+     "w": "memerintahkan",
+     "start": 76.989,
+     "end": 77.907
+    },
+    {
+     "w": "warganya",
+     "start": 77.907,
+     "end": 78.458
+    },
+    {
+     "w": "membentangkan",
+     "start": 78.458,
+     "end": 79.192
+    },
+    {
+     "w": "kain",
+     "start": 79.192,
+     "end": 79.376
+    },
+    {
+     "w": "hijau",
+     "start": 79.376,
+     "end": 79.743
+    },
+    {
+     "w": "kehitam-hitaman",
+     "start": 79.743,
+     "end": 80.845
+    },
+    {
+     "w": "di",
+     "start": 80.845,
+     "end": 81.028
+    },
+    {
+     "w": "puncak",
+     "start": 81.028,
+     "end": 81.396
+    },
+    {
+     "w": "gunung,",
+     "start": 81.396,
+     "end": 82.263
+    },
+    {
+     "w": "membuat",
+     "start": 82.263,
+     "end": 82.814
+    },
+    {
+     "w": "gunungnya",
+     "start": 82.814,
+     "end": 83.365
+    },
+    {
+     "w": "tampak",
+     "start": 83.365,
+     "end": 83.732
+    },
+    {
+     "w": "jauh",
+     "start": 83.732,
+     "end": 83.915
+    },
+    {
+     "w": "lebih",
+     "start": 83.915,
+     "end": 84.283
+    },
+    {
+     "w": "tinggi",
+     "start": 84.283,
+     "end": 84.65
+    },
+    {
+     "w": "secara",
+     "start": 84.65,
+     "end": 85.201
+    },
+    {
+     "w": "instan.",
+     "start": 85.201,
+     "end": 85.568
+    }
+   ]
+  },
+  {
+   "shot_id": 9,
+   "seq_start": 85.908,
+   "seq_end": 96.619,
+   "speech_start": 86.248,
+   "speech_end": 96.283,
+   "chunks": [
+    {
+     "text": "Melihat gunung Desa Sinujuh yang mendadak sangat tinggi,",
+     "start": 86.248,
+     "end": 89.577
+    },
+    {
+     "text": "Datuk Siba putus asa.",
+     "start": 89.577,
+     "end": 91.427
+    },
+    {
+     "text": "Ia mengaku kalah dan memutuskan menghentikan pengerjaan gunungnya.",
+     "start": 91.427,
+     "end": 96.283
+    }
+   ],
+   "words": [
+    {
+     "w": "Melihat",
+     "start": 86.248,
+     "end": 86.803
+    },
+    {
+     "w": "gunung",
+     "start": 86.803,
+     "end": 87.173
+    },
+    {
+     "w": "Desa",
+     "start": 87.173,
+     "end": 87.543
+    },
+    {
+     "w": "Sinujuh",
+     "start": 87.543,
+     "end": 88.097
+    },
+    {
+     "w": "yang",
+     "start": 88.097,
+     "end": 88.282
+    },
+    {
+     "w": "mendadak",
+     "start": 88.282,
+     "end": 88.837
+    },
+    {
+     "w": "sangat",
+     "start": 88.837,
+     "end": 89.207
+    },
+    {
+     "w": "tinggi,",
+     "start": 89.207,
+     "end": 89.577
+    },
+    {
+     "w": "Datuk",
+     "start": 89.577,
+     "end": 90.318
+    },
+    {
+     "w": "Siba",
+     "start": 90.318,
+     "end": 90.688
+    },
+    {
+     "w": "putus",
+     "start": 90.688,
+     "end": 91.058
+    },
+    {
+     "w": "asa.",
+     "start": 91.058,
+     "end": 91.427
+    },
+    {
+     "w": "Ia",
+     "start": 91.427,
+     "end": 92.4
+    },
+    {
+     "w": "mengaku",
+     "start": 92.4,
+     "end": 92.955
+    },
+    {
+     "w": "kalah",
+     "start": 92.955,
+     "end": 93.325
+    },
+    {
+     "w": "dan",
+     "start": 93.325,
+     "end": 93.51
+    },
+    {
+     "w": "memutuskan",
+     "start": 93.51,
+     "end": 94.249
+    },
+    {
+     "w": "menghentikan",
+     "start": 94.249,
+     "end": 94.989
+    },
+    {
+     "w": "pengerjaan",
+     "start": 94.989,
+     "end": 95.728
+    },
+    {
+     "w": "gunungnya.",
+     "start": 95.728,
+     "end": 96.283
+    }
+   ]
+  },
+  {
+   "shot_id": 10,
+   "seq_start": 96.619,
+   "seq_end": 106.233,
+   "speech_start": 96.956,
+   "speech_end": 105.907,
+   "chunks": [
+    {
+     "text": "Karena malu gunungnya setengah jadi,",
+     "start": 96.956,
+     "end": 99.595
+    },
+    {
+     "text": "Datuk Siba menenggelamkan gunung buatannya ke dasar muara,",
+     "start": 99.595,
+     "end": 103.658
+    },
+    {
+     "text": "meninggalkan rasa kecewa yang mendalam.",
+     "start": 103.658,
+     "end": 105.907
+    }
+   ],
+   "words": [
+    {
+     "w": "Karena",
+     "start": 96.956,
+     "end": 97.475
+    },
+    {
+     "w": "malu",
+     "start": 97.475,
+     "end": 97.821
+    },
+    {
+     "w": "gunungnya",
+     "start": 97.821,
+     "end": 98.34
+    },
+    {
+     "w": "setengah",
+     "start": 98.34,
+     "end": 98.859
+    },
+    {
+     "w": "jadi,",
+     "start": 98.859,
+     "end": 99.595
+    },
+    {
+     "w": "Datuk",
+     "start": 99.595,
+     "end": 99.941
+    },
+    {
+     "w": "Siba",
+     "start": 99.941,
+     "end": 100.287
+    },
+    {
+     "w": "menenggelamkan",
+     "start": 100.287,
+     "end": 101.152
+    },
+    {
+     "w": "gunung",
+     "start": 101.152,
+     "end": 101.498
+    },
+    {
+     "w": "buatannya",
+     "start": 101.498,
+     "end": 102.19
+    },
+    {
+     "w": "ke",
+     "start": 102.19,
+     "end": 102.363
+    },
+    {
+     "w": "dasar",
+     "start": 102.363,
+     "end": 102.71
+    },
+    {
+     "w": "muara,",
+     "start": 102.71,
+     "end": 103.658
+    },
+    {
+     "w": "meninggalkan",
+     "start": 103.658,
+     "end": 104.35
+    },
+    {
+     "w": "rasa",
+     "start": 104.35,
+     "end": 104.696
+    },
+    {
+     "w": "kecewa",
+     "start": 104.696,
+     "end": 105.215
+    },
+    {
+     "w": "yang",
+     "start": 105.215,
+     "end": 105.388
+    },
+    {
+     "w": "mendalam.",
+     "start": 105.388,
+     "end": 105.907
+    }
+   ]
+  },
+  {
+   "shot_id": 11,
+   "seq_start": 106.233,
+   "seq_end": 117.153,
+   "speech_start": 106.558,
+   "speech_end": 116.858,
+   "chunks": [
+    {
+     "text": "Namun kebohongan tak bertahan lama.",
+     "start": 106.558,
+     "end": 108.8
+    },
+    {
+     "text": "Saat mengetahui trik kain licik Ki Sinu, Datuk Siba murka dan mengutuk kesombongan Desa Sinujuh sebelum akhir hayatnya.",
+     "start": 108.8,
+     "end": 116.858
+    }
+   ],
+   "words": [
+    {
+     "w": "Namun",
+     "start": 106.558,
+     "end": 106.932
+    },
+    {
+     "w": "kebohongan",
+     "start": 106.932,
+     "end": 107.679
+    },
+    {
+     "w": "tak",
+     "start": 107.679,
+     "end": 107.866
+    },
+    {
+     "w": "bertahan",
+     "start": 107.866,
+     "end": 108.427
+    },
+    {
+     "w": "lama.",
+     "start": 108.427,
+     "end": 108.8
+    },
+    {
+     "w": "Saat",
+     "start": 108.8,
+     "end": 109.57
+    },
+    {
+     "w": "mengetahui",
+     "start": 109.57,
+     "end": 110.504
+    },
+    {
+     "w": "trik",
+     "start": 110.504,
+     "end": 110.691
+    },
+    {
+     "w": "kain",
+     "start": 110.691,
+     "end": 110.878
+    },
+    {
+     "w": "licik",
+     "start": 110.878,
+     "end": 111.252
+    },
+    {
+     "w": "Ki",
+     "start": 111.252,
+     "end": 111.439
+    },
+    {
+     "w": "Sinu,",
+     "start": 111.439,
+     "end": 111.813
+    },
+    {
+     "w": "Datuk",
+     "start": 111.813,
+     "end": 112.186
+    },
+    {
+     "w": "Siba",
+     "start": 112.186,
+     "end": 112.56
+    },
+    {
+     "w": "murka",
+     "start": 112.56,
+     "end": 112.934
+    },
+    {
+     "w": "dan",
+     "start": 112.934,
+     "end": 113.121
+    },
+    {
+     "w": "mengutuk",
+     "start": 113.121,
+     "end": 113.681
+    },
+    {
+     "w": "kesombongan",
+     "start": 113.681,
+     "end": 114.429
+    },
+    {
+     "w": "Desa",
+     "start": 114.429,
+     "end": 114.802
+    },
+    {
+     "w": "Sinujuh",
+     "start": 114.802,
+     "end": 115.363
+    },
+    {
+     "w": "sebelum",
+     "start": 115.363,
+     "end": 115.924
+    },
+    {
+     "w": "akhir",
+     "start": 115.924,
+     "end": 116.297
+    },
+    {
+     "w": "hayatnya.",
+     "start": 116.297,
+     "end": 116.858
+    }
+   ]
+  },
+  {
+   "shot_id": 12,
+   "seq_start": 117.153,
+   "seq_end": 127.392,
+   "speech_start": 117.447,
+   "speech_end": 127.01,
+   "chunks": [
+    {
+     "text": "Gunung buatan warga Sinujuh itu kini berdiri kokoh,",
+     "start": 117.447,
+     "end": 121.032
+    },
+    {
+     "text": "menjadi saksi kebohongan masa lalu yang abadi,",
+     "start": 121.032,
+     "end": 124.934
+    },
+    {
+     "text": "dikenal sebagai Gunung Senujuh.",
+     "start": 124.934,
+     "end": 127.01
+    }
+   ],
+   "words": [
+    {
+     "w": "Gunung",
+     "start": 117.447,
+     "end": 117.824
+    },
+    {
+     "w": "buatan",
+     "start": 117.824,
+     "end": 118.391
+    },
+    {
+     "w": "warga",
+     "start": 118.391,
+     "end": 118.768
+    },
+    {
+     "w": "Sinujuh",
+     "start": 118.768,
+     "end": 119.334
+    },
+    {
+     "w": "itu",
+     "start": 119.334,
+     "end": 119.711
+    },
+    {
+     "w": "kini",
+     "start": 119.711,
+     "end": 120.089
+    },
+    {
+     "w": "berdiri",
+     "start": 120.089,
+     "end": 120.655
+    },
+    {
+     "w": "kokoh,",
+     "start": 120.655,
+     "end": 121.032
+    },
+    {
+     "w": "menjadi",
+     "start": 121.032,
+     "end": 121.919
+    },
+    {
+     "w": "saksi",
+     "start": 121.919,
+     "end": 122.297
+    },
+    {
+     "w": "kebohongan",
+     "start": 122.297,
+     "end": 123.052
+    },
+    {
+     "w": "masa",
+     "start": 123.052,
+     "end": 123.429
+    },
+    {
+     "w": "lalu",
+     "start": 123.429,
+     "end": 123.806
+    },
+    {
+     "w": "yang",
+     "start": 123.806,
+     "end": 123.995
+    },
+    {
+     "w": "abadi,",
+     "start": 123.995,
+     "end": 124.934
+    },
+    {
+     "w": "dikenal",
+     "start": 124.934,
+     "end": 125.5
+    },
+    {
+     "w": "sebagai",
+     "start": 125.5,
+     "end": 126.066
+    },
+    {
+     "w": "Gunung",
+     "start": 126.066,
+     "end": 126.444
+    },
+    {
+     "w": "Senujuh.",
+     "start": 126.444,
+     "end": 127.01
+    }
+   ]
+  },
+  {
+   "shot_id": 13,
+   "seq_start": 127.392,
+   "seq_end": 136.36,
+   "speech_start": 127.773,
+   "speech_end": 136.36,
+   "chunks": [
+    {
+     "text": "Kisah Gunung Senujuh mengingatkan kita,",
+     "start": 127.773,
+     "end": 130.78
+    },
+    {
+     "text": "kemenangan yang diraih dengan kecurangan tak akan pernah mendatangkan kedamaian sejati.",
+     "start": 130.78,
+     "end": 136.36
+    }
+   ],
+   "words": [
+    {
+     "w": "Kisah",
+     "start": 127.773,
+     "end": 128.145
+    },
+    {
+     "w": "Gunung",
+     "start": 128.145,
+     "end": 128.517
+    },
+    {
+     "w": "Senujuh",
+     "start": 128.517,
+     "end": 129.075
+    },
+    {
+     "w": "mengingatkan",
+     "start": 129.075,
+     "end": 129.819
+    },
+    {
+     "w": "kita,",
+     "start": 129.819,
+     "end": 130.78
+    },
+    {
+     "w": "kemenangan",
+     "start": 130.78,
+     "end": 131.524
+    },
+    {
+     "w": "yang",
+     "start": 131.524,
+     "end": 131.71
+    },
+    {
+     "w": "diraih",
+     "start": 131.71,
+     "end": 132.082
+    },
+    {
+     "w": "dengan",
+     "start": 132.082,
+     "end": 132.454
+    },
+    {
+     "w": "kecurangan",
+     "start": 132.454,
+     "end": 133.198
+    },
+    {
+     "w": "tak",
+     "start": 133.198,
+     "end": 133.384
+    },
+    {
+     "w": "akan",
+     "start": 133.384,
+     "end": 133.756
+    },
+    {
+     "w": "pernah",
+     "start": 133.756,
+     "end": 134.128
+    },
+    {
+     "w": "mendatangkan",
+     "start": 134.128,
+     "end": 134.872
+    },
+    {
+     "w": "kedamaian",
+     "start": 134.872,
+     "end": 135.802
+    },
+    {
+     "w": "sejati.",
+     "start": 135.802,
+     "end": 136.36
+    }
+   ]
+  }
+ ]
+}

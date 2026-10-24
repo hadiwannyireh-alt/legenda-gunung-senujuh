@@ -1,0 +1,326 @@
+{
+  "project_metadata": {
+    "title": "Legenda Gunung Senujuh - Dua Pemimpin",
+    "format": "Stop Motion Animation (Cut-out Style)",
+    "target_platform": "Remotion / Video",
+    "total_duration_seconds": 136,
+    "fps": 24,
+    "aspect_ratio": "16:9",
+    "language": "id-ID"
+  },
+  "storyboard": [
+    {
+      "shot_id": 1,
+      "timestamp_start_sec": 0,
+      "timestamp_end_sec": 10,
+      "duration_sec": 10,
+      "act": "Pembuka (Introduction)",
+      "visual_description": "Pemandangan alam Sambas dari potongan kertas bertekstur. Siluet Desa Sebatok dan Desa Sinujuh tampak berdampingan damai.",
+      "voiceover_narration": "Pada zaman dahulu di bumi Sambas, Kalimantan Barat, dua desa hidup rukun dan bersahabat... Desa Sebatok yang dipimpin Datuk Siba, dan Desa Sinujuh yang dipimpin Ki Sinu.",
+      "subtitles": "Pada zaman dahulu di bumi Sambas, Kalimantan Barat, dua desa hidup rukun dan bersahabat. Desa Sebatok yang dipimpin Datuk Siba, dan Desa Sinujuh yang dipimpin Ki Sinu.",
+      "dynamic_typography": {
+        "text": "LEGENDA GUNUNG SENUJUH",
+        "style": "Large paper-cut bold font"
+      },
+      "sfx_commands": [
+        {
+          "time_sec": 0.0,
+          "sound_name": "soft_nature_ambient",
+          "action": "play",
+          "volume": 0.4,
+          "ai_prompt": "Calm Borneo tropical forest ambient with river stream"
+        },
+        {
+          "time_sec": 2.0,
+          "sound_name": "traditional_sape_intro",
+          "action": "play",
+          "volume": 0.5,
+          "ai_prompt": "Gentle acoustic traditional string melody"
+        }
+      ]
+    },
+    {
+      "shot_id": 2,
+      "timestamp_start_sec": 10,
+      "timestamp_end_sec": 20,
+      "duration_sec": 10,
+      "act": "Penemuan Wilayah Subur",
+      "visual_description": "Datuk Siba dan Ki Sinu berburu bersama, menemukan muara besar dengan tanah yang sangat hijau dan subur.",
+      "voiceover_narration": "Suatu hari saat berburu bersama, mereka menemukan sebuah wilayah baru di dekat muara besar... tanahnya sangat subur, kaya akan flora dan fauna.",
+      "subtitles": "Suatu hari saat berburu bersama, mereka menemukan sebuah wilayah baru di dekat muara besar. Tanahnya sangat subur, kaya akan flora dan fauna.",
+      "dynamic_typography": {
+        "text": "Wilayah Subur Muara Besar",
+        "style": "Subtle slide-in serif text"
+      },
+      "sfx_commands": [
+        {
+          "time_sec": 10.5,
+          "sound_name": "river_waves_soft",
+          "action": "play",
+          "volume": 0.5,
+          "ai_prompt": "River water splashing gently on shore"
+        }
+      ]
+    },
+    {
+      "shot_id": 3,
+      "timestamp_start_sec": 20,
+      "timestamp_end_sec": 30,
+      "duration_sec": 10,
+      "act": "Keserakahan & Konflik",
+      "visual_description": "Ekspresi wajah karakter berubah tajam. Bayangan gelap kertas menutupi area peta wilayah.",
+      "voiceover_narration": "Namun, keserakahan mulai membakar dada. Masing-masing pemimpin ingin menguasai wilayah subur tersebut secara utuh, hingga pertikaian tak lagi terelakkan.",
+      "subtitles": "Namun, keserakahan mulai membakar dada. Masing-masing pemimpin ingin menguasai wilayah subur tersebut secara utuh, hingga pertikaian tak lagi terelakkan.",
+      "dynamic_typography": {
+        "text": "KESERAKAHAN MEMBAKAR DADA",
+        "style": "Rough red-edged paper font"
+      },
+      "sfx_commands": [
+        {
+          "time_sec": 21.0,
+          "sound_name": "tense_drone_synth",
+          "action": "play",
+          "volume": 0.6,
+          "ai_prompt": "Dark low tension synth drone sound"
+        }
+      ]
+    },
+    {
+      "shot_id": 4,
+      "timestamp_start_sec": 30,
+      "timestamp_end_sec": 41,
+      "duration_sec": 11,
+      "act": "Pertumpahan Darah",
+      "visual_description": "Siluet warga kedua desa saling serang di malam hari dengan obor kertas menyala merah.",
+      "voiceover_narration": "Perselisihan berujung pada bentrokan antar warga! Pertumpahan darah terjadi, mengancam kehancuran kedua desa.",
+      "subtitles": "Perselisihan berujung pada bentrokan antar warga. Pertumpahan darah terjadi, mengancam kehancuran kedua desa.",
+      "dynamic_typography": {
+        "text": "PERTUMPAHAN DARAH",
+        "style": "Aggressive paper tear typography"
+      },
+      "sfx_commands": [
+        {
+          "time_sec": 31.0,
+          "sound_name": "spear_clash_shout",
+          "action": "trigger",
+          "volume": 0.8,
+          "ai_prompt": "Wooden spears clashing with faint combat shouts"
+        },
+        {
+          "time_sec": 36.0,
+          "sound_name": "fire_torch_crackle",
+          "action": "play",
+          "volume": 0.5,
+          "ai_prompt": "Torch fire burning crackle ambient"
+        }
+      ]
+    },
+    {
+      "shot_id": 5,
+      "timestamp_start_sec": 41,
+      "timestamp_end_sec": 52,
+      "duration_sec": 11,
+      "act": "Usul Lomba Gunung",
+      "visual_description": "Ki Sinu maju ke depan membentangkan tangan memberi usul, disaksikan Datuk Siba yang merenung.",
+      "voiceover_narration": "Demi menghentikan perang, Ki Sinu memberi usul: \"Mari kita berlomba membuat gunung! Siapa yang membuat gunung tertinggi dalam satu bulan, dialah pemilik wilayah ini!\"",
+      "subtitles": "Demi menghentikan perang, Ki Sinu memberi usul: \"Mari kita berlomba membuat gunung! Siapa yang membuat gunung tertinggi dalam satu bulan, dialah pemilik wilayah ini!\"",
+      "dynamic_typography": {
+        "text": "LOMBA MEMBUAT GUNUNG",
+        "style": "Centered bold quotation typography"
+      },
+      "sfx_commands": [
+        {
+          "time_sec": 41.5,
+          "sound_name": "gong_stop_battle",
+          "action": "trigger",
+          "volume": 0.9,
+          "ai_prompt": "Resonant traditional gong strike stopping conflict"
+        }
+      ]
+    },
+    {
+      "shot_id": 6,
+      "timestamp_start_sec": 52,
+      "timestamp_end_sec": 62,
+      "duration_sec": 10,
+      "act": "Gotong Royong Membuat Gunung",
+      "visual_description": "Warga kedua desa bekerja siang dan malam membawa tumpukan batu dan tanah kertas.",
+      "voiceover_narration": "Perlombaan pun dimulai! Warga Desa Sebatok dan Desa Sinujuh bekerja siang dan malam, mengangkut batu dan tanah demi kejayaan desa mereka.",
+      "subtitles": "Perlombaan pun dimulai! Warga Desa Sebatok dan Desa Sinujuh bekerja siang dan malam, mengangkut batu dan tanah demi kejayaan desa mereka.",
+      "dynamic_typography": {
+        "text": "KERJA KERAS SIANG & MALAM",
+        "style": "Fast ticking timeline text"
+      },
+      "sfx_commands": [
+        {
+          "time_sec": 53.0,
+          "sound_name": "rock_scraping_heavy",
+          "action": "play",
+          "volume": 0.7,
+          "ai_prompt": "Heavy rocks dragging, digging soil, paper friction sounds"
+        }
+      ]
+    },
+    {
+      "shot_id": 7,
+      "timestamp_start_sec": 62,
+      "timestamp_end_sec": 73,
+      "duration_sec": 11,
+      "act": "Kecemasan & Rencana Licik",
+      "visual_description": "Minggu ketiga, dua gunung terlihat sama tinggi. Ki Sinu tampak cemas lalu menyeringai licik.",
+      "voiceover_narration": "Minggu ketiga tiba, ketinggian kedua gunung masih seimbang. Ki Sinu yang cemas lalu memutar otak dan merencanakan tipu muslihat yang licik.",
+      "subtitles": "Minggu ketiga tiba, ketinggian kedua gunung masih seimbang. Ki Sinu yang cemas lalu memutar otak dan merencanakan tipu muslihat yang licik.",
+      "dynamic_typography": {
+        "text": "TIPU MUSLIHAT",
+        "style": "Dark creeping shadow text"
+      },
+      "sfx_commands": [
+        {
+          "time_sec": 63.0,
+          "sound_name": "suspense_drone_synth",
+          "action": "play",
+          "volume": 0.6,
+          "ai_prompt": "Dark low tension synth drone sound"
+        }
+      ]
+    },
+    {
+      "shot_id": 8,
+      "timestamp_start_sec": 73,
+      "timestamp_end_sec": 84,
+      "duration_sec": 11,
+      "act": "Kain Hijau Penipu Mata",
+      "visual_description": "Malam hari, warga Sinujuh membentangkan kain hijau kehitam-hitaman di puncak gunung buatan.",
+      "voiceover_narration": "Di kegelapan malam, Ki Sinu memerintahkan warganya membentangkan kain hijau kehitam-hitaman di puncak gunung... membuat gunungnya tampak jauh lebih tinggi secara instan!",
+      "subtitles": "Di kegelapan malam, Ki Sinu memerintahkan warganya membentangkan kain hijau kehitam-hitaman di puncak gunung, membuat gunungnya tampak jauh lebih tinggi secara instan.",
+      "dynamic_typography": {
+        "text": "Kain Hijau Penipu Mata",
+        "style": "Flickering translucent typography"
+      },
+      "sfx_commands": [
+        {
+          "time_sec": 74.0,
+          "sound_name": "fabric_flapping_wind",
+          "action": "trigger",
+          "volume": 0.8,
+          "ai_prompt": "Heavy cloth flapping in strong night wind"
+        }
+      ]
+    },
+    {
+      "shot_id": 9,
+      "timestamp_start_sec": 84,
+      "timestamp_end_sec": 94,
+      "duration_sec": 10,
+      "act": "Datuk Siba Putus Asa",
+      "visual_description": "Datuk Siba melihat gunung Sinujuh yang menjulang tinggi secara tidak wajar, lalu tertunduk putus asa.",
+      "voiceover_narration": "Melihat gunung Desa Sinujuh yang mendadak sangat tinggi, Datuk Siba putus asa. Ia mengaku kalah dan memutuskan menghentikan pengerjaan gunungnya.",
+      "subtitles": "Melihat gunung Desa Sinujuh yang mendadak sangat tinggi, Datuk Siba putus asa. Ia mengaku kalah dan memutuskan menghentikan pengerjaan gunungnya.",
+      "dynamic_typography": {
+        "text": "Datuk Siba Putus Asa",
+        "style": "Fading grey paper text"
+      },
+      "sfx_commands": [
+        {
+          "time_sec": 85.0,
+          "sound_name": "sad_flute_solo",
+          "action": "play",
+          "volume": 0.6,
+          "ai_prompt": "Melancholic solo bamboo flute"
+        }
+      ]
+    },
+    {
+      "shot_id": 10,
+      "timestamp_start_sec": 94,
+      "timestamp_end_sec": 105,
+      "duration_sec": 11,
+      "act": "Penenggelaman Gunung Sebatok",
+      "visual_description": "Karena malu, Datuk Siba mendorong gunung setengah jadinya hingga amblas ke dasar muara.",
+      "voiceover_narration": "Karena malu gunungnya setengah jadi, Datuk Siba menenggelamkan gunung buatannya ke dasar muara... meninggalkan rasa kecewa yang mendalam.",
+      "subtitles": "Karena malu gunungnya setengah jadi, Datuk Siba menenggelamkan gunung buatannya ke dasar muara, meninggalkan rasa kecewa yang mendalam.",
+      "dynamic_typography": {
+        "text": "GUNUNG DITENGGELAMKAN",
+        "style": "Drop down water splash text"
+      },
+      "sfx_commands": [
+        {
+          "time_sec": 95.0,
+          "sound_name": "massive_water_splash",
+          "action": "trigger",
+          "volume": 0.9,
+          "ai_prompt": "Heavy rock sinking into deep water with large splash"
+        }
+      ]
+    },
+    {
+      "shot_id": 11,
+      "timestamp_start_sec": 105,
+      "timestamp_end_sec": 117,
+      "duration_sec": 12,
+      "act": "Kebohongan Terbongkar & Kutukan",
+      "visual_description": "Angin kencang merobek kain hijau, memperlihatkan kecurangan. Datuk Siba murka dan mengutuk.",
+      "voiceover_narration": "Namun kebohongan tak bertahan lama. Saat mengetahui trik kain licik Ki Sinu, Datuk Siba murka dan mengutuk kesombongan Desa Sinujuh sebelum akhir hayatnya.",
+      "subtitles": "Namun kebohongan tak bertahan lama. Saat mengetahui trik kain licik Ki Sinu, Datuk Siba murka dan mengutuk kesombongan Desa Sinujuh sebelum akhir hayatnya.",
+      "dynamic_typography": {
+        "text": "KECURANGAN TERBONGKAR",
+        "style": "Glitch paper tear text"
+      },
+      "sfx_commands": [
+        {
+          "time_sec": 106.0,
+          "sound_name": "cloth_rip_thunder",
+          "action": "trigger",
+          "volume": 0.8,
+          "ai_prompt": "Fabric tearing apart violently with distant thunder"
+        }
+      ]
+    },
+    {
+      "shot_id": 12,
+      "timestamp_start_sec": 117,
+      "timestamp_end_sec": 126,
+      "duration_sec": 9,
+      "act": "Berdirinya Gunung Senujuh",
+      "visual_description": "Gunung buatan warga Sinujuh berdiri kokoh megah di tepi sungai Sambas sebagai monumen kebohongan.",
+      "voiceover_narration": "Gunung buatan warga Sinujuh itu kini berdiri kokoh... menjadi saksi kebohongan masa lalu yang abadi, dikenal sebagai Gunung Senujuh.",
+      "subtitles": "Gunung buatan warga Sinujuh itu kini berdiri kokoh, menjadi saksi kebohongan masa lalu yang abadi, dikenal sebagai Gunung Senujuh.",
+      "dynamic_typography": {
+        "text": "GUNUNG SENUJUH",
+        "style": "Elegantly placed center text"
+      },
+      "sfx_commands": [
+        {
+          "time_sec": 118.0,
+          "sound_name": "epic_orchestra_settle",
+          "action": "play",
+          "volume": 0.6,
+          "ai_prompt": "Cinematic orchestral chord resolving peacefully"
+        }
+      ]
+    },
+    {
+      "shot_id": 13,
+      "timestamp_start_sec": 126,
+      "timestamp_end_sec": 136,
+      "duration_sec": 10,
+      "act": "Pesan Moral",
+      "visual_description": "Buku cerita kertas menutup perlahan diiringi pemandangan senja.",
+      "voiceover_narration": "Kisah Gunung Senujuh mengingatkan kita... kemangan yang diraih dengan kecurangan tak akan pernah mendatangkan kedamaian sejati.",
+      "subtitles": "Kisah Gunung Senujuh mengingatkan kita, kemenangan yang diraih dengan kecurangan tak akan pernah mendatangkan kedamaian sejati.",
+      "dynamic_typography": {
+        "text": "TERIMA KASIH\nCerita Rakyat Sambas, Kalimantan Barat",
+        "style": "Fade-in credits typography"
+      },
+      "sfx_commands": [
+        {
+          "time_sec": 133.0,
+          "sound_name": "book_close_fade",
+          "action": "trigger",
+          "volume": 0.7,
+          "ai_prompt": "Soft paper book closing sound and audio fade out"
+        }
+      ]
+    }
+  ]
+}

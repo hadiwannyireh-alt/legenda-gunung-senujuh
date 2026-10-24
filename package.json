@@ -1,0 +1,23 @@
+{
+  "name": "legenda-gunung-senujuh",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Legenda Gunung Senujuh - Dua Pemimpin (Remotion, paper cut-out stop motion)",
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion render Senujuh out/senujuh.mp4",
+    "sfx": "bash scripts/make-placeholder-sfx.sh",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.528",
+    "@remotion/google-fonts": "4.0.528",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.528"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "typescript": "5.9.3"
+  }
+}
